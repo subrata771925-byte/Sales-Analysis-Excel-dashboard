@@ -8,7 +8,7 @@ The dashboard analyzes sales performance across revenue, orders, products, categ
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](images/sales-analysis-dashboard.png)
+sales-analysis-dashboard.png
 
 ## Key KPIs
 
