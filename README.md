@@ -6,9 +6,10 @@ This project presents an interactive Sales Analysis Dashboard created using Micr
 
 The dashboard analyzes sales performance across revenue, orders, products, categories, occasions, cities, and delivery performance.
 
+
 ## Dashboard Preview
 
-sales-analysis-dashboard.png
+![Sales Analysis Dashboard](./sales-analysis-dashboard.png)
 
 ## Key KPIs
 
